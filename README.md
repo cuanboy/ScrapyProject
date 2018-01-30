@@ -1,2 +1,5 @@
-# scrapyProject
-Scrapy实战项目
+﻿# ScrapyProject Scrapy项目实战
+
+## scrapyMysql
+
+> Scrapy爬取到的数据如何存入MySQL？如何编写Scrapy组件Piplie本项目会详细告诉你，[项目解释](http://www.scrapyd.cn/jiaocheng/170.html)
