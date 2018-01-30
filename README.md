@@ -1,4 +1,4 @@
-﻿# ScrapyProject Scrapy项目实战
+﻿# Scrapy实战项目合集
 
 ## scrapyMysql
 
