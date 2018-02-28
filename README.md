@@ -7,3 +7,8 @@
 ## InputMongodb
 
 > 本项目主要演示如何把Scrapy爬到的数据存入MongoDB。[项目详情](http://www.scrapyd.cn/jiaocheng/171.html)
+
+## InputMongodb
+
+> 本项目主要演示如何把Scrapy下载图片。学会了便可以去菜花了[项目详情]
+(http://www.scrapyd.cn/jiaocheng/174.html)
