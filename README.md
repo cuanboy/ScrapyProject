@@ -4,6 +4,8 @@
 
 > 本爬虫，实现整个妹纸网站爬取，妹纸4000多，图片10W多，合计10G多数据量……[项目详情](http://www.scrapyd.cn/example/176.html)
 
+> ![image](https://github.com/cuanboy/ScrapyProject/blob/master/AoiSolas/gif.gif) 
+
 ## scrapyMysql
 
 > Scrapy爬取到的数据如何存入MySQL？如何编写Scrapy组件Piplie本项目会详细告诉你，[项目详情](http://www.scrapyd.cn/jiaocheng/170.html)
